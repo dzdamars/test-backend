@@ -54,13 +54,13 @@
     Setup the Database Connection on .env file
   </li>
   <li>
-    Because i'm not using migrations, so import the .sql file into the database
+    Because i'm not using migrations or if migrations doesnt work, please import the homestead.sql file into the database
   </li>
   <li>
     Run "php artisan serve"
   </li>
   <li>
-    If the Project has been running, then import the postman collection
+    If the Project has been running, then import the postman collection into postman
   </li>
   <li>
     and try one by one to submit the request, I hope you like it, Thanks!
