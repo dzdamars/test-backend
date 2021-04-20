@@ -1,6 +1,6 @@
-<h1>API Movie catalog</h1>
+<h1>API Movie catalogue</h1>
 
-<h2>Test Backend Bit Group Asia:</h2>
+<h2>Making a API for Movie Catalogue:</h2>
 <p>
   I have finished the test, but I'm sorry because I can only finish up to questions 1-4
 </p>
